@@ -2,4 +2,4 @@
 
 ![Ecommerce](./assets/img/proyecto.jpg)
 
--[Ecommerce](https://jhonpe.github.io/web-frontend)
+-[Ecommerce](https://jhonpe.github.io/ecommerce-website)
